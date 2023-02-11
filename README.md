@@ -96,7 +96,7 @@ Other use cases for bar graphs include:
 
 While column charts show information vertically, and bar graphs show data horizontally. While you can use both to display changes in data, column charts are best for negative data.<br><br>
 
-For example, warehouses often track the number of accidents that happen on the shop floor. When the number of incidents falls below the monthly average, a column chart can make that change easier to see in a presentation.<br><br>
+For example, warehouses often track the number of accidents that happen on the shop floor. When the number of incidents falls below the monthly average, a column chart can make that change easier to see in a presentation.<br>
 
 In the example above, this column chart measures the number of customers by close date. Column charts make it easy to see data changes over a period of time. This means that they have many use cases, including:<br>
 
