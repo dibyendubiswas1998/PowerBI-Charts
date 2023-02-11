@@ -73,15 +73,17 @@ Relationship charts can show how one variable relates to one or many different v
 
 ### Different Types of Graphs and Charts for Presenting Data:
 #### 1. Bar Chart:
-Bar graphs can help you compare data between different groups or to track changes over time. Bar graphs are most useful when there are big changes or to show how one group compares against other groups.<br><br>
+![bar](https://user-images.githubusercontent.com/67157274/218243948-e08c2f9d-ff61-4ea6-a024-1c9112a4ca25.PNG)
 
-The example above compares the number of customers by business role. It makes it easy to see that there is more than twice the number of customers per role for individual contributors than any other group.<br><br>
+Bar graphs can help you compare data between different groups or to track changes over time. Bar graphs are most useful when there are big changes or to show how one group compares against other groups.<br>
 
-A bar graph also makes it easy to see which group of data is highest or most common.<br><br>
+The example above compares the number of customers by business role. It makes it easy to see that there is more than twice the number of customers per role for individual contributors than any other group.<br>
 
-For example, at the start of the pandemic, online businesses saw a big jump in traffic. So, if you want to look at monthly traffic for an online business, a bar graph would make it easy to see that jump.<br><br>
+A bar graph also makes it easy to see which group of data is highest or most common.<br>
 
-Other use cases for bar graphs include:<br><br>
+For example, at the start of the pandemic, online businesses saw a big jump in traffic. So, if you want to look at monthly traffic for an online business, a bar graph would make it easy to see that jump.<br>
+
+Other use cases for bar graphs include:
 
    * Product comparisons
    * Product usage
@@ -90,6 +92,8 @@ Other use cases for bar graphs include:<br><br>
    * Marketing conversions
 
 #### 2. Column Chart:
+![column](https://user-images.githubusercontent.com/67157274/218243965-a4fe14ba-ae28-4acc-9553-08162289fbca.PNG)
+
 While column charts show information vertically, and bar graphs show data horizontally. While you can use both to display changes in data, column charts are best for negative data.<br><br>
 
 For example, warehouses often track the number of accidents that happen on the shop floor. When the number of incidents falls below the monthly average, a column chart can make that change easier to see in a presentation.<br><br>
@@ -102,6 +106,8 @@ In the example above, this column chart measures the number of customers by clos
 
 
 #### 3. Line Graph:
+![line](https://user-images.githubusercontent.com/67157274/218243973-b2776fb1-b8d5-4e6f-ae88-4ab06cc00f78.PNG)
+
 * Line graphs help users track changes over short and long periods of time. Because of this, these types of graphs are good for seeing small changes.
 * Line graphs can help you compare changes for more than one group over the same period. They're also helpful for measuring how different groups relate to each other.
 * A business might use this type of graph to compare sales rates for different products or services over time.
@@ -109,12 +115,15 @@ In the example above, this column chart measures the number of customers by clos
 
 
 #### 4. Dual Axis Chart:
-A dual-axis chart makes it easy to see relationships between different data sets. They can also help with comparing trends. <br><br>
+![dual axis](https://user-images.githubusercontent.com/67157274/218244053-8237dd41-e2a2-47e5-ba28-8e49ac6b9791.PNG)
+
+A dual-axis chart allows you to plot data using two y-axes and a shared x-axis. It has three data sets. One is a continuous set of data and the other is better suited to grouping by category. Use this chart to visualize a correlation or the lack thereof between these three data sets.<br><br>
+A dual-axis chart makes it easy to see relationships between different data sets. They can also help with comparing trends. <br>
 
 For example, the chart above shows how many new customers this company brings in each month. It also shows how much revenue those customers are bringing the company.
-<br><br>
+<br>
 This makes it simple to see the connection between the number of customers and increased revenue.
-<br><br>
+<br>
 You can use dual-axis charts to compare:
    * Price and volume of your products
    * Revenue and units sold
@@ -122,6 +131,8 @@ You can use dual-axis charts to compare:
    * Individual sales performance
 
 #### 5. Area Chart:
+![area](https://user-images.githubusercontent.com/67157274/218244065-59813111-a54a-4a5f-87a6-cc32e3aa8c9b.PNG)
+
 An area chart is basically a line chart, but the space between the x-axis and the line is filled with a color or pattern. It is useful for showing part-to-whole relations, like showing individual sales reps' contributions to total sales for a year. It helps you analyze both overall and individual trend information. <br><br>
 
 Area charts help show changes over time. They work best for big differences between data sets and also help visualize big trends.<br>
@@ -138,6 +149,8 @@ Area graphs can help your business to:
 
 
 #### 6. Stacked Bar Chart:
+![stack bar](https://user-images.githubusercontent.com/67157274/218244072-60327c85-30c3-44ca-8efd-61ed68250dc7.PNG)
+
 Use this chart to compare many different items and show the composition of each item you’re comparing.<br><br>
 
 These graphs are helpful when a group starts in one column and moves to another over time.<br>
@@ -158,6 +171,8 @@ You can also use these charts to:
 
 
 #### 7. Pie Chart:
+![pie](https://user-images.githubusercontent.com/67157274/218244080-bec6d269-3687-4289-a722-87d27444957e.PNG)
+
 A pie chart shows a static number and how categories represent part of a whole — the composition of something. A pie chart represents numbers in percentages, and the total sum of all segments needs to equal 100%.<br><br>
 
 The image above shows another example of customers by role in the company.<br>
@@ -171,6 +186,8 @@ Pie charts make it easy to see a section in relation to the whole, so they are g
    * Percent of total profit from different store locations
 
 #### 8. Scatter Plot Chart:
+![scatter](https://user-images.githubusercontent.com/67157274/218244090-01c64e57-1d10-4746-86e5-81069207ee72.PNG)
+
 A scatter plot or scattergram chart will show the relationship between two different variables or reveals distribution trends. Use this chart when there are many different data points, and you want to highlight similarities in the data set. This is useful when looking for outliers or for understanding the distribution of your data.<br><br>
 
 Scatter plots are helpful in situations where you have too much data to quickly see a pattern. They are best when you use them to show relationships between two large data sets.<br>
@@ -190,6 +207,8 @@ Try to choose two data sets that already have a positive or negative relationshi
 
 
 #### 9. Bubble Chart:
+![bubble](https://user-images.githubusercontent.com/67157274/218244094-cb0ce301-4883-4c11-b23b-17a3a4167778.PNG)
+
 A bubble chart is similar to a scatter plot in that it can show distribution or relationship. There is a third data set shown by the size of the bubble or circle.<br><br>
 
 In the example above, the number of hours spent online isn't just compared to the age of the user, as it would be on a scatter plot chart.<br>
@@ -209,6 +228,8 @@ You can also use bubble charts for:
 
 
 #### 10. Waterfall Chart:
+![waterfall](https://user-images.githubusercontent.com/67157274/218244097-2eb53855-487c-4ef6-98d5-3e4c38986e0e.PNG)
+
 Use a waterfall chart to show how an initial value changes with intermediate values — either positive or negative — and results in a final value.<br>
 
 Use this chart to reveal the composition of a number. An example of this would be to showcase how overall company revenue is influenced by different departments and leads to a specific profit number.<br><br>
@@ -227,6 +248,8 @@ You may also want to try a waterfall chart to show:
 
 
 #### 11. Funnel Chart:
+![funnel](https://user-images.githubusercontent.com/67157274/218244102-0e0feab7-b630-4271-b43d-61f565839f37.PNG)
+
 A funnel chart shows a series of steps and the completion rate for each step. Use this type of chart to track the sales process or the conversion rate across a series of pages or steps.<br><br>
 
 The most common use case for a funnel chart is the marketing or sales funnel. But there are many other ways to use this versatile chart.<br>
@@ -245,6 +268,8 @@ Other stellar options for these types of charts include:
 
 
 #### 12. Bullet Graph:
+![bullet](https://user-images.githubusercontent.com/67157274/218244108-e5717e5e-7248-4e94-9390-f8b7b99d874e.PNG)
+
 A bullet graph reveals progress toward a goal, compares this to another measure, and provides context in the form of a rating or performance.<br><br>
 
 In the example above, this bullet graph shows the number of new customers against a set customer goal. Bullet graphs are great for comparing performance against goals like this.<br>
@@ -269,6 +294,8 @@ Bullet graphs are one of the best ways to display year-over-year data analysis. 
 
 
 #### 13. Heat Map:
+![heat map](https://user-images.githubusercontent.com/67157274/218244114-d1dc4086-6cdb-4ee2-aefe-bc5ddca9a8b6.PNG)
+
 A heat map shows the relationship between two items and provides rating information, such as high to low or poor to excellent. This chart displays the rating information using varying colors or saturation.<br><br>
 
 In the example above, the darker the shade of green shows where the majority of people agree.<br>
